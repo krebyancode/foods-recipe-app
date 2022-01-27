@@ -5,8 +5,8 @@ import { MainContainer } from "./HomeStyle";
 import Card from "./Card";
 
 const mealTypes = ["Breakfast", "Lunch", "Dinner", "Snack", "Teatime"];
-const APP_ID = "4e9f05eb";
-const APP_KEY = "9b904d703fa0d46a88ce1ac63f29f498";
+const APP_ID = "8582304d";
+const APP_KEY = "9e7ed331a666c12633ac635c4eb19b07";
 
 const Home = () => {
   const [query, setQuery] = useState("");
